@@ -2,3 +2,5 @@ tmp/cache/
 tmp/pids/
 log/
 storage/
+log/development.log
+storage/development.sqlite3
